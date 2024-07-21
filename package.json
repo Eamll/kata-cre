@@ -1,0 +1,11 @@
+{
+  "name": "tarea-cre",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

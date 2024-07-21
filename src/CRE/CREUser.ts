@@ -1,4 +1,4 @@
-import UserData from "./UserData.entity";
+import UserData from "./UserData";
 
 export default class CREUser {
     id: number;

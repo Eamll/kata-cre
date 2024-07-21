@@ -1,5 +1,5 @@
 import CREUser from "./CREUser"
-import UserData from "./UserData.entity"
+import UserData from "./UserData"
 
 export type CREInfoUsers = {
     [key: string]: CREUser
